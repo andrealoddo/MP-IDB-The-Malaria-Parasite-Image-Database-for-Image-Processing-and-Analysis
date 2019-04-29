@@ -1,4 +1,4 @@
-# MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis
+# MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis
 This is the public image dataset described in this article: https://link.springer.com/chapter/10.1007/978-3-030-13835-6_7
 Authors: Andrea Loddo, Cecilia Di Ruberto, Michel Kocher, Guy Prod'Hom.
 
