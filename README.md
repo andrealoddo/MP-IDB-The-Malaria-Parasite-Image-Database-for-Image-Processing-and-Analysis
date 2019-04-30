@@ -29,6 +29,6 @@ For each species, there are four distinct stages of life, described in the filen
 - R: indicates the presence of 1 or more Ring stage parasites
 - T: indicates the presence of 1 or more Trophozoite stage parasites
 - S: indicates the presence of 1 or more Schizont stage parasites
-- G: indicates the presence of 1 or more 3 Gametocyte stage parasites.
+- G: indicates the presence of 1 or more Gametocyte stage parasites.
 
 Each original image has its own ground-truth, provided by expert pathologists, while every image has been analyzed from left to right, therefore every filename indicates the presence of the parasites following this indication.
