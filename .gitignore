@@ -1,2 +1,3 @@
-
-Falciparum/scripts/*
+Falciparum/*
+!Falciparum/gt
+!Falciparum/img
