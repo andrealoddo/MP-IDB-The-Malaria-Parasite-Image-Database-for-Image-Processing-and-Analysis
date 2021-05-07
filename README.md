@@ -2,7 +2,7 @@
 MP-IDB is the public image dataset described in the following article: https://link.springer.com/chapter/10.1007/978-3-030-13835-6_7
 Authors: Andrea Loddo, Cecilia Di Ruberto, Michel Kocher, Guy Prod'Hom.
 
-NOTE: please indicate the following in case of use of this dataset in your own work:
+NOTE: please indicate the following in case of using this dataset in your own work:
 
 @InProceedings{10.1007/978-3-030-13835-6_7,
 author="Loddo, Andrea
