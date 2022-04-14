@@ -3,3 +3,4 @@ Falciparum/mp-idb-falciparum-parasite.csv
 Falciparum/scripts/.ipynb_checkpoints/convertGtToTfrecord-checkpoint.ipynb
 Falciparum/scripts/convertGtToTfrecord.ipynb
 Falciparum/scripts/convertMasksToCSV.m
+*.m
